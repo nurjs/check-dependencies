@@ -1,7 +1,7 @@
 {
 	"name": "@nurjs/check-dependencies",
 	"description": "helps to check dependencies of node projects",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"license": "APACHE-2.0",
 	"bin": {
 		"check-dependencies": "index.js"
