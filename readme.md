@@ -32,4 +32,5 @@ check-dependencies -p [path to your project] -u true
 | noClear  | -     | Don't clear the console                                                  | false     | check-dependencies --noClear true       |
 
 ## contributions
-check [contributions instructions](https://
+
+check [contributions instructions](./CONTRIBUTING.md)
